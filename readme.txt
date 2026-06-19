@@ -4,3 +4,4 @@ git add .
 git commit -m
 --no --ff 
 stash
+bug fix
