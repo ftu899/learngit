@@ -5,3 +5,6 @@ git commit -m
 --no --ff 
 stash
 bug fix
+commit1
+commit2
+commit3
