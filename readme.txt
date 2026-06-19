@@ -3,3 +3,4 @@ Git is free software.
 git add .
 git commit -m
 --no --ff 
+stash
